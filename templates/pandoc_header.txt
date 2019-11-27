@@ -1,3 +1,5 @@
 
 
 \usepackage[a4paper,text={16.5cm,25.2cm},centering]{geometry}
+\usepackage{caption}
+\usepackage{subcaption}
